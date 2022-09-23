@@ -1,0 +1,9 @@
+{
+  "username": "ramlzmc@yopmail.com",
+  "password": "Test@123456",
+  "apkName": "kriptoversityLab.apk",
+  "mobileUdid": "emulator-5554",
+  "dbHost" : "jdbc:mysql://rm-d9jw49gsp928raqm7ro.mysql.ap-southeast-5.rds.aliyuncs.com/kryptoversity",
+  "dbUser" : "testing",
+  "dbPassword" : "testing-123"
+}
